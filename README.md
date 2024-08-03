@@ -7,8 +7,8 @@ Secondly, the program will search the and determine which unit may provide the m
 By these two steps, the operation iteration can be reduced.
 Finally, this progream connect with Aspen Plus for damage index evaluation.
 
-## Exaple
-In the main file, necessary information, including hazadous chemicals and its properties, reaction sets, blocks for calculation, and Simulator file name should be provided in the main.py file. The detailed descriptions about the necessary information have been added in the annotation of the DI function.
+## Example
+In the main file, necessary information, including hazadous chemicals and its properties, reaction sets, blocks for calculation, and Simulator file name should be provided in the main.py file. The detailed descriptions about the necessary information have been added in the annotation of the DI function. The tested Simulator file is provided in the .rar file.
 
 ```python
 import numpy as np
