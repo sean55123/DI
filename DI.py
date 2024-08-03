@@ -121,7 +121,7 @@ class DI:
         Args:
             T (float): Temperature
             index_TC (list): Targeted chemical label
-            PP (float): Pressure 
+            PP (float): Process pressure 
             target_chemical (str): Targeted chemical (with highest pn4 massflow)
             target_stream (str): Targeted stream (with highest pn4 massflow)
 
