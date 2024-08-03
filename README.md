@@ -72,7 +72,7 @@ The primary developer is Pei-Jhen Wu with support from the following contributor
 @article{,
 author = {},
 journal = {},
-pages = {}},
+pages = {},
 title = {},
 volume = {},
 year = {},
