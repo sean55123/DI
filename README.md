@@ -1,5 +1,5 @@
-# Damage Index (DI)
-This module provides a simulator-based calculator for damage index calculation.
+# PyNDI
+PyNDI (NTU Damage Index calculator) provides a simulator-based calculator for damage index calculation.
 ## Overview
 The damage index calculated in this program is basically based on the FEDI (Fire and Explosion Damage Index).
 Firstly, hazadous chemicals will be defined in advance. 
